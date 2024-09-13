@@ -1,8 +1,9 @@
 # todo_app_ui
 
-A new Flutter project.
+Simple TODO App UI using FLutter
 
-## Getting Started
+## Screenshot
+![todoappui](https://github.com/user-attachments/assets/2eab0401-fbcd-4075-816f-7b6be2a36456)
 
 This project is a starting point for a Flutter application.
 
